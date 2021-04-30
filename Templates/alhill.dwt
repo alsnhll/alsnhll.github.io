@@ -5,12 +5,12 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="author" content="Alison Hill">
-	<meta name="copyright" content="Copyright (c) 2020 Alison Hill">
+	<meta name="copyright" content="Copyright (c) 2021 Alison Hill">
 	<meta name="description" content="Alison Hill, Johns Hopkins University/Harvard University">
-	<meta name="keywords" content="Alison Hill, Alison Lynn Hill, Alison L Hill, Alison Hill Harvard, Ali Hill, Harvard, Johns Hopkins, Program for Evolutionary Dynamics, Institute for Computational Medicine, Infectious Disease Dynamics Group, evolution, biophysics, mathematical modeling, computational biology, viral dynamics, evolutionary dynamics, systems biology, HIV, AIDS, drug resistance">
+	<meta name="keywords" content="Alison Hill, Alison Lynn Hill, Alison L Hill, Alison Hill Harvard, Ali Hill, Harvard, Johns Hopkins, Biomedical Engineering, Program for Evolutionary Dynamics, Institute for Computational Medicine, Infectious Disease Dynamics Group, evolution, biophysics, mathematical modeling, mathematical biology, computational biology, viral dynamics, evolutionary dynamics, systems biology, HIV, AIDS, drug resistance">
 	<meta http-equiv="imagetoolbar" content="false">
 	<!-- TemplateBeginEditable name="doctitle" -->
-	<title>Alison Hill, Johns Hopkins University/Harvard University</title>
+	<title>Alison Hill, Johns Hopkins University</title>
 	<!-- TemplateEndEditable -->
 	<!-- Bootstrap -->
 	<link href="../css/bootstrap.css" rel="stylesheet">
@@ -65,7 +65,7 @@
     
         <div class="row">
           <div class="col-sm-2" align="right"><img src="images/virus_w_dynamics2.png" alt="virus" width="75" class="img-responsive"></div>
-          <div class="col-sm-10"><h1>Alison L Hill</h1>  </div>
+          <div class="col-sm-10"><h1>Hill Lab @JohnsHopkins</h1>  </div>
         </div>
   		
       <div class="row">
